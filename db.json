@@ -1,0 +1,135 @@
+{
+  "users": [
+    {
+      "code": "CO7207",
+      "salary": 40000,
+      "id": 1007,
+      "job": "Manager",
+      "department": "Operations",
+      "name": "Bently Smith",
+      "hobbies": ["Sports", "Reading", "Painting"]
+    },
+    {
+      "code": "CO7210",
+      "salary": 80000,
+      "id": 1010,
+      "job": "Director",
+      "department": "Operations",
+      "name": "Isla Morris",
+      "hobbies": ["Sports", "Reading"]
+    },
+    {
+      "code": "CO7202",
+      "salary": 15000,
+      "id": 1002,
+      "job": "Salesman",
+      "department": "Sales",
+      "name": "Allen Green",
+      "hobbies": ["Sports", "Painting"]
+    },
+    {
+      "code": "CO7208",
+      "salary": 60000,
+      "id": 1008,
+      "job": "Analyst",
+      "department": "Research",
+      "name": "Xavier Campbell",
+      "hobbies": ["Reading", "Painting"]
+    },
+    {
+      "code": "CO7209",
+      "salary": 50000,
+      "id": 1009,
+      "job": "Analyst",
+      "department": "Research",
+      "name": "Ethan Kumar",
+      "hobbies": ["Crafting", "Painting"]
+    },
+    {
+      "code": "CO7201",
+      "salary": 20000,
+      "id": 1001,
+      "job": "Clerk",
+      "department": "Accounting",
+      "name": "John Marshal",
+      "hobbies": ["Singing", "Painting"]
+    },
+    {
+      "code": "CO7205",
+      "salary": 15000,
+      "id": 1005,
+      "job": "Salesman",
+      "department": "Sales",
+      "name": "Ethan Almaas",
+      "hobbies": ["Singing", "Dancing"]
+    },
+    {
+      "code": "CO7211",
+      "salary": 15000,
+      "id": 1011,
+      "job": "Salesman",
+      "department": "Sales",
+      "name": "Natalie Robinson",
+      "hobbies": ["Writing"]
+    },
+    {
+      "code": "CO7212",
+      "salary": 15000,
+      "id": 1012,
+      "job": "Salesman",
+      "department": "Sales",
+      "name": "Earl Rose",
+      "hobbies": ["Singing", "Sports"]
+    },
+    {
+      "code": "CO7206",
+      "salary": 20000,
+      "id": 1006,
+      "job": "Clerk",
+      "department": "Accounting",
+      "name": "Ilija Seifert",
+      "hobbies": ["Singing", "Cooking"]
+    },
+    {
+      "code": "CO7204",
+      "salary": 20000,
+      "id": 1004,
+      "job": "Clerk",
+      "department": "Accounting",
+      "name": "Annette Burke",
+      "hobbies": ["Reading", "Teaching"]
+    },
+    {
+      "code": "CO7203",
+      "salary": 15000,
+      "id": 1003,
+      "job": "Salesman",
+      "department": "Sales",
+      "name": "Fernando Gordon",
+      "hobbies": []
+    },
+    {
+      "code": "CO7213",
+      "salary": 15000,
+      "id": 1013,
+      "job": "Salesman",
+      "department": "Sales",
+      "name": "Catherine Foster",
+      "hobbies": []
+    }
+  ],
+  "notes": [
+    {
+      "id": 1,
+      "title": "delectus aut autem"
+    },
+    {
+      "id": 2,
+      "title": "quis ut nam facilis et officia qui"
+    },
+    {
+      "id": 3,
+      "title": "fugiat veniam minus"
+    }
+  ]
+}
